@@ -6,6 +6,6 @@ class Test
 {
     function test()
     {
-        // 1.5
+        // 1.8.1
     }
 }
