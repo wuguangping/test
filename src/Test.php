@@ -6,6 +6,6 @@ class Test
 {
     function test()
     {
-        // 1.4
+        // 1.3
     }
 }
