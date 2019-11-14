@@ -1,0 +1,21 @@
+{
+    "name": "wuguangping/test",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuguangping",
+            "email": "wuguangping@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
